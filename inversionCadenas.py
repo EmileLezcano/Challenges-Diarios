@@ -7,3 +7,4 @@ for caracter in cadena:
     candena_invertida = caracter + candena_invertida
 
 print('La cadena invertida es:',candena_invertida)
+
